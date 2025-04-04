@@ -1,0 +1,110 @@
+/**/
+/*header inicio*/
+templatemo_nav_top{
+    background-color: darkgreen;
+    /*border-radius: 8%;*/
+}
+
+#logo_1 {
+    height: 110px !important; /* Ajusta el tamaño según lo necesites */
+    width: auto !important;  /* Mantiene la proporción */
+    display: block; /* Asegura que se respete el tamaño */
+}
+
+
+#nav .navbar-nav .nav-link {
+    font-size: 20px; /* Ajusta el tamaño según lo necesites */
+    font-weight: bold; /* Opcional, para hacer la letra más gruesa */
+}
+/*header final*/
+
+/************************************************************************************/
+
+/*body inicio*/
+
+
+.hero-section{
+    margin: 5em;
+}
+#templatemo_nav_top{
+    background-color: darkgreen;
+    /*border-radius: 8%;*/
+}
+
+#logo_1 {
+    width: 100px; /* Ajusta según necesites */
+    height: 100px;
+    object-fit: contain; /* Mantiene la proporción */
+}
+
+#carouselExampleIndicators{
+    height: 600px;
+}
+
+#carouselExampleIndicators .carousel-inner,
+#carouselExampleIndicators .carousel-item {
+    height: 100%;
+}
+
+#carouselExampleIndicators .carousel-item img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.navbar {
+    padding: 0.2rem 1rem; /* Reduce el espacio interno (padding superior e inferior) */
+    min-height: 40px; /* Ajusta la altura mínima de la barra */
+}
+
+.navbar-nav .nav-link {
+    padding: 5px 8px; /* Reduce el espacio entre los enlaces */
+    font-size: 14px; /* Ajusta el tamaño del texto */
+}
+
+.navbar-brand img {
+    height: 40px; /* Ajusta el tamaño del logo en la barra de navegación */
+    width: auto;
+}
+
+/*body {
+    background-color: #174d2da1; /* Azul claro 
+}*/
+
+#descripcion{
+    text-align: justify;
+    font-size: larger;
+    color: black;
+}
+
+
+.textodetalle{
+    color: black;
+    text-align: justify;
+    margin: 5px;
+}
+
+
+.galeria-img {
+    height: 250px; /* Mismo tamaño para todas */
+    object-fit: cover;
+    width: 100%;
+}
+
+/*body final*/
+
+/************************************************************************************************/
+
+/* footer inicio*/
+
+#tempaltemo_footer{
+    background-color: darkgreen;
+    
+}
+
+#titfooter{
+    color: white;
+}
+
+
+/* footer final*/
